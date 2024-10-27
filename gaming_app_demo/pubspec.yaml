@@ -1,0 +1,23 @@
+name: gaming_app_demo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  webview_flutter: ^4.8.0
+  webview_flutter_android: ^3.16.8
+  webview_flutter_wkwebview: ^3.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
