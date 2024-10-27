@@ -1,5 +1,5 @@
 # Gaming_platform_app
-this is a gaming platform app demo
+this is a gaming platform app demo <br>
 download these packages for running the project successfully
 provider
 webview_flutter
